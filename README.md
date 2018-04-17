@@ -44,3 +44,4 @@
 36. [Kotlin](https://github.com/srbcheema1/Hello_world/blob/master/Hello_world.kt)
 37. [CDuce](https://github.com/srbcheema1/Hello_world/blob/master/hello_world.xsd)
 38. [ARDUINO](https://github.com/srbcheema1/Hello_world/blob/master/hello_world.ino)
+39. [Oracle](https://github.com/srbcheema1/Hello_world/blob/master/hello_world.sql)
