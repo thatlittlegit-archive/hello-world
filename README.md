@@ -42,4 +42,7 @@
 34. [Ponylang](https://github.com/srbcheema1/Hello_world/blob/master/hello_world.pony)
 35. [Verilog](https://github.com/srbcheema1/Hello_world/blob/master/hello_world.v)
 36. [Kotlin](https://github.com/srbcheema1/Hello_world/blob/master/Hello_world.kt)
-37. [Fortran](https://github.com/srbcheema1/Hello_world/blob/master/hello_world.f90)
+37. [CDuce](https://github.com/srbcheema1/Hello_world/blob/master/hello_world.xsd)
+38. [ARDUINO](https://github.com/srbcheema1/Hello_world/blob/master/hello_world.ino)
+39. [Oracle](https://github.com/srbcheema1/Hello_world/blob/master/hello_world.sql)
+40. [Fortran](https://github.com/srbcheema1/Hello_world/blob/master/hello_world.f90)

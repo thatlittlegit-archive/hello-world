@@ -97,3 +97,6 @@ install-rust:
 	
 install-scala:
 	sudo apt-get install scala -y
+
+install-sql
+	sqlplus -S / as sysdba @hello_world.sql
