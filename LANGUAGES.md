@@ -2,10 +2,10 @@
 NOTE: This is not complete. Any help would be greatly appreciated. It should
 also be sorted alphabetically.  
 Do not list installation instructions specific to a Linux distro - it needs
-to work on any GNU system (such as Mac), preferably Windows too.
-
+to work on any GNU system (such as Mac), preferably Windows too.  
 Parsing: Remove the first 10 lines (the rather AWKward `awk '{if (NR > 10) {print}}'`).
 For the old LANGUAGES.md, see the tree before 8c2ffc3c.
+
 |Language|Compile Command|Run Command|Install (not distro-specific, i.e. no `apt` or `dnf`)|
 |-|-|-|-|
 |C|gcc hello_world.c -o hello_world|./hello_world||
