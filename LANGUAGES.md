@@ -23,6 +23,15 @@ For the old LANGUAGES.md, see the tree before 8c2ffc3c.
 |PHP||php hello_world.php||
 |Python2||python2 hello_world_2.py||
 |Python3||python3 hello_world.py||
-|Rust|rustc hello_world.rs|./hello_world|wget -o/dev/null -O- https://sh.rustup.rs | sh|
+|Rust|rustc hello_world.rs|./hello_world|wget -o/dev/null -O- https://sh.rustup.rs >file;sh file; rm file|
 |Scala|scalac HelloWorld.scala|scala HelloWorld||
-
+|HTML||||
+|C#|mcs HelloWorld.cs|mono HelloWorld.exe||
+|Ruby||ruby Hello_World.rb||
+|Haxe||haxe -main HelloWorld --interp||
+|R||R --no-save <Hello\_World.R|| <!-- _ --> <!-- Darn you vim -->
+|F#|fsharpc Hello_World.fs|mono Hello_World.exe||
+|Visual Basic|||
+|Go||go run hello_world.go||
+|Arduino||||
+|CDuce||cduce --run hello_world.xsd||
